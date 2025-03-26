@@ -165,7 +165,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lhuaWtM2x6Sv4wG-J0oP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="lhuaWtM2x6Sv4wG-J0oP-29" target="lhuaWtM2x6Sv4wG-J0oP-1" edge="1">
+        <mxCell id="lhuaWtM2x6Sv4wG-J0oP-54" value="option for" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=classic;startFill=0;endFill=0;" parent="1" source="lhuaWtM2x6Sv4wG-J0oP-29" target="lhuaWtM2x6Sv4wG-J0oP-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515" y="600" as="targetPoint" />
           </mxGeometry>
